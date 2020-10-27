@@ -1,0 +1,20 @@
+{
+    "Author": "Eli Fisher",
+    "ContentSize": 1402,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-sql-database-latest-georedundant-backup-time/master/GetAzureSQLDatabaseLastGeoRedundantBackupTime.ps1",
+    "DownloadCount": 962,
+    "Id": "Azure-SQL-Database-Latest-99e2aa5a",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 359,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2015-2-23T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "The purpose of this script is to demonstrate how to view the time difference of your Azure SQL Databases' latest geo-redundant backups and the current time.",
+    "Title": "Azure SQL Database: Latest Geo-Redundant backup time",
+    "UpdatedDate": "2015-2-23T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-sql-database-latest-georedundant-backup-time",
+    "UserTags": "backup, Restore, Disaster Recovery"
+}
